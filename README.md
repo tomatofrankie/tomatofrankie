@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me: tomatotofrankie@gmail.com
+- 🎶 Learn more about me on https://tomatofrankie.github.io
 
 <!---
 tomatofrankie/tomatofrankie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
