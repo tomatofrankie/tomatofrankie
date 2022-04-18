@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomatofrankie
-- 👀 I’m interested in music
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in design
+- 🌱 I’m currently learning SQL
 - 🎶 Learn more about me on https://tomatofrankie.github.io
 - 📫 How to reach me: tomatotofrankie@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
