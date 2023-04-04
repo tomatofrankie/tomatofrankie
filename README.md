@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomatofrankie
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently working on an Algo Trading project
 - 🎶 Learn more about me on https://tomatofrankie.github.io
 - 📫 How to reach me: tomatotofrankie@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
